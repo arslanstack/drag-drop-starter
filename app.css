@@ -1,0 +1,26 @@
+body{
+    background-color: #1d3557;
+}
+.whiteBox{
+    width: 155px;
+    height: 155px;
+    background-color: #457b9d;
+    display: inline-block;
+    border: 2px solid #a8dadc;
+    /* margin: 20px; */
+}
+.imgBox{
+    background-image: url('img2.png');
+    position: relative;
+    top: 5px;
+    left: 5px;
+    width: 145px;
+    height: 145px;
+    cursor: pointer;
+}
+.hold{
+    border: 2px solid #e63946;
+}
+.hide{
+    display: none;
+}
